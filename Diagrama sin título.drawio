@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T12:28:56.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="tT_CARuYLXRMo7XiiinJ" type="github"><diagram id="MjAMGy4d2pDoDNyul7xi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-22T12:53:34.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="DaFlHK6ZjzhB-v0oZHYK" type="github">
+  <diagram id="AyeH9wZGXfPNAAqWGTna" name="Página-1">
+    <mxGraphModel dx="880" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-1" value="Contratos Comerciales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-1" target="FSAMroRcyPtxqVWGcCyN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="170" as="sourcePoint" />
+            <mxPoint x="94" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-3" value="Customer Service&lt;br&gt;(Correo)&lt;br&gt;PD: Agregar algo mas?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="FSAMroRcyPtxqVWGcCyN-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="240" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-5" value="Fecha de vencimiento = vigencia hasta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.465;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-5" target="FSAMroRcyPtxqVWGcCyN-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="190" as="sourcePoint" />
+            <mxPoint x="347" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-7" value="Correos a enviar:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.4588" y="-3" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="154.5" as="sourcePoint" />
+            <mxPoint x="470" y="154.5" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-9" value="10 días antes de que se venzan los servicios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.192;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FSAMroRcyPtxqVWGcCyN-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="185" as="sourcePoint" />
+            <mxPoint x="580" y="225" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;5 días antes de que se venzan los servicios&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.418;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-9" target="FSAMroRcyPtxqVWGcCyN-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="125" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-11" target="FSAMroRcyPtxqVWGcCyN-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="125" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-14" value="Los correos serán dirigidos al Customer Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-14" target="FSAMroRcyPtxqVWGcCyN-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-16" value="Al enviar el correo se insertara un check y la fecha a una nueva tabla en BD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="FSAMroRcyPtxqVWGcCyN-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="380" as="sourcePoint" />
+            <mxPoint x="350" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-18" value="La función de la nueva tabla será ser consultada siempre previamente a enviar una alerta de vencimiento, validando que no se haya enviado previamente el correo." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.44;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-18" target="FSAMroRcyPtxqVWGcCyN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="540" as="sourcePoint" />
+            <mxPoint x="310" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-20" value="A partir de esta misma tabla, que registrara cuando se envié el primer correo (10 días pre-vencimiento), se hará el calculo de fecha vs ese primer registro para enviar el segundo mail, cuando el resultado de la fecha de envió y la actual sea &amp;lt;= a 5 días." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.87;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-16" target="FSAMroRcyPtxqVWGcCyN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-23" value="Al enviar el segundo correo se insertara un check y la fecha en BD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="650" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-16" target="FSAMroRcyPtxqVWGcCyN-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="600" as="sourcePoint" />
+            <mxPoint x="480" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-20" target="FSAMroRcyPtxqVWGcCyN-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="600" as="sourcePoint" />
+            <mxPoint x="480" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-26" value="Cuando este segundo cehck sea guardado ese contrato ya no recibira alertas pese a estar en los ultimos 5 dias a vencer." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="635" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FSAMroRcyPtxqVWGcCyN-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSAMroRcyPtxqVWGcCyN-23" target="FSAMroRcyPtxqVWGcCyN-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="680" as="sourcePoint" />
+            <mxPoint x="480" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
